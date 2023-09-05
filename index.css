@@ -1,6 +1,11 @@
 h1{
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 50px;
+    text-align: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
 }
 body{
     background-color: cornsilk;
